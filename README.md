@@ -1,6 +1,6 @@
 ### About me
 
-I am a former academic researcher with a Phd in Linguistics from Leiden University in the Netherlands, post-doctoral experience and publications in the fields of Linguistics and Philology. For the last three years I have been training and freelancing as an NLP specialist.
+I am a former academic researcher with a Phd in Linguistics from Leiden University in the Netherlands, post-doctoral experience and publications in the fields of Linguistics and Philology. For the last three years I have been training and freelancing as an NLP specialist. I am currently working as an **AI Engineer**, designing LLM-powered solutions for a web platform that gathers data from 25+ databases in the pharmaceutical sector to provide accurate information to healthcare professionals.
 
 [[CV]](https://github.com/umbertoselva/umbertoselva/raw/main/UmbertoSelvaCV.pdf) - [[LinkedIn]](https://www.linkedin.com/in/umberto-selva/) - [[Professional Certifications]](https://www.linkedin.com/in/umberto-selva/details/certifications/)
 
