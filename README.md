@@ -1,6 +1,6 @@
 ### About me
 
-I am a former post-doctoral researcher and lecturer with a Phd in Linguistics from Leiden University in the Netherlands. After a career in academia I trained and freelanced as an NLP specialist acquiring a broad expertise across Machine Learning and Data Science with a solid Software Development foundation. I am currently working as an **AI Engineer** and I specialize in designing LLM-powered solutions and prompt engineering for a web platform in the pharmaceutical sector. I continue to offer freelancing services.
+I am a former post-doctoral researcher and lecturer with a Phd in Linguistics from Leiden University in the Netherlands. After a career in academia, I trained and freelanced as an NLP specialist, acquiring a broad expertise across Machine Learning and Data Science, with a solid foundation in Software Development. I am currently working as an **AI Engineer** and I specialize in designing LLM-powered solutions and prompt engineering for a web platform in the pharmaceutical sector. I continue to offer freelancing services.
 
 [[CV]](https://github.com/umbertoselva/umbertoselva/raw/main/UmbertoSelvaCV.pdf) - [[LinkedIn]](https://www.linkedin.com/in/umberto-selva/) - [[Professional Certifications]](https://www.linkedin.com/in/umberto-selva/details/certifications/)
 
