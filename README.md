@@ -12,7 +12,7 @@ I am a former post-doctoral researcher and lecturer with a Phd in Linguistics fr
 * Machine Learning / Deep Learning
 * Data Science
 
-### Portfolio (N.B. Last update: May 2023)
+### Portfolio (N.B. No longer maintained since early 2023)
 #### 🏛️🤖  GPT-3.5 Museum FAQ Chatbot (2023)
 [NLP, Prompt Engineering] [[Website](https://umbertoselva-gpt-3-5-museum-faq-chatbot-app-5lr1hr.streamlit.app)][[Github repo](https://github.com/umbertoselva/GPT-3.5-Museum-FAQ-Chatbot)] <br />
 A chatbot built with Langchain, OpenAI GPT-3.5 and a Streamlit UI that can answer questions based on the Stedelijk Museum Amsterdam's FAQ list. This project is a follow-up to my previous [Museum FAQ Chatbot](https://github.com/umbertoselva/Museum-FAQ-Chatbot) built with Sentence Transformers and ElasticSearch. <br />
