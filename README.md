@@ -6,10 +6,10 @@ I am a former post-doctoral researcher and lecturer with a Phd in Linguistics fr
 
 ### My expertise:
 * Python
+* Artificial Intelligence (GenAI, LLMs, RAG, Agents, Fine-Tuning)
+* Prompt Engineering
 * Natural Language Processing
 * Machine Learning / Deep Learning
-* Artificial Intelligence (GenAI, LLMs, RAG, Agents)
-* Prompt Engineering
 * Data Science
 
 ### Portfolio (N.B. Last update: May 2023)
