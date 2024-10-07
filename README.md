@@ -12,7 +12,28 @@ I am a former post-doctoral researcher and lecturer with a Phd in Linguistics fr
 * Machine Learning / Deep Learning
 * Data Science
 
-### Portfolio (Last update 2022)
+### Portfolio 
+
+Here's an overview of the kind of projects that I have worked on in the last two years at [pharmazie.com](https://www.pharmazie.com):
+
+#### 🔬  AI Agentic System
+I built an AI Agent system (API) to leverage pharmaceutical data from a number of databases in support of conversational assistants. <br />
+[Tech: Python, LangChain, LangGraph, LlamaIndex, FastAPI, Voiceflow, AWS, etc.]
+
+#### 🔭  Custom RAG Pipelines
+I developed custom Retrieval Augmented Generation (RAG) pipelines and (textual / tabular) data extraction pipelines for specific document types (PDFs, webpages, etc.) to provide conversational assistants with reliable data from pharmaceutical documentation. <br />
+[Tech: Python, LangChain, LlamaIndex, Unstructured, FastAPI, Streamlit, AWS, etc.]
+
+#### 🧬  Data Extraction to Template Pipelines
+I developed custom AI pipelines to extract data from pharmaceutical documentation and databases, and format it into custom templates, tailored to our customers' needs. <br />
+[Tech: Python, LangChain, LangGraph, LlamaIndex, Unstructured, FastAPI, AWS, etc.]
+
+#### 👾  Chatbot | Conversation Design
+I designed conversation workflows, widgets and front-end interfaces to interact with our back-end AI applications (RAG, Agents, etc.). <br />
+[Tech: Voiceflow, Botpress, Streamlit, Python, LangChain, LangGraph, FastAPI, AWS, etc.]
+
+
+### Earlier Portfolio (2020-2022)
 
 #### 🎥  Fine-tuning BERT with TensorFlow for NER-based Sentiment Analysis (2022)
 [NLP, ML, Data Science] [[Notebooks](https://github.com/umbertoselva/NER-based-Sentiment-Analysis)] <br />
