@@ -1,16 +1,38 @@
 ### About me
 
-I am a former post-doctoral researcher and lecturer with a Phd in Linguistics from Leiden University in the Netherlands. After a career in academia, I trained and freelanced as an NLP specialist, acquiring a broad expertise across Machine Learning and Data Science, with a solid foundation in Software Development. I am currently working as an **AI Engineer** and I specialize in designing LLM-powered solutions and prompt engineering for a web platform in the pharmaceutical sector. I continue to offer freelancing services.
+• EU-based freelance AI engineer with 5+ years of experience in Python software development • Former post-doctoral researcher and university lecturer with a PhD in linguistics from Leiden University, the Netherlands • Wide-ranging background in computational linguistics, natural language processing (NLP), machine learning (ML) and data science • Broad experience developing NLP/AI apps across academia and the pharmaceutical industry.
 
 [[CV]](https://github.com/umbertoselva/umbertoselva/raw/main/UmbertoSelvaCV.pdf) - [[LinkedIn]](https://www.linkedin.com/in/umberto-selva/) - [[Professional Certifications]](https://www.linkedin.com/in/umberto-selva/details/certifications/)
 
 ### My expertise:
 * Python
-* Artificial Intelligence (GenAI, LLMs, RAG, Agents, Fine-Tuning)
+* Artificial Intelligence (GenAI, LLMs, RAG, Agents, Chatbots)
 * Prompt Engineering
 * Natural Language Processing
 * Machine Learning / Deep Learning
 * Data Science
+
+### AI Consulting Freelancing Services
+
+#### GenAI Applications and APIs
+End-to-end design, development, deployment and optimization of scalable, event-driven architecture-based AI applications, APIs, MCP servers and microservices, using modern cloud-native strategies and covering everything from proof of concept to MVP to production-ready systems.
+#### Chatbots
+LLM-powered conversational assistants that know your company data, provide reliable answers, and leverage user profiling and custom memory strategies, available 24x7 for customer service, internal support, or lead qualification.
+#### AI Agents and Workflows
+Intelligent agents that can reason, retrieve information, use tools, execute multi-step tasks, and make smart decisions without human input, built with type-safe structured output and function-calling techniques, following state-of-the-art chain of responsibility architecture guidelines for orchestration, routing, parallelization, etc. to handle complex workflows and save your team time and effort.
+#### Data and Document Processing
+Automated and intelligent pipelines for extraction, parsing, classification, and labelling and reformatting of data from structured and unstructured sources (PDFs, invoices, legal documents, reports, tables, databases, etc.), cutting down manual repetitive work and improving accuracy.
+#### RAG (Retrieval-Augmented Generation) Pipelines
+Scalable custom retrieval systems leveraging vector databases, semantic search (embeddings), keyword-based and hybrid search, BM25, reranking, and filtering, on top of custom chunking strategies, to reduce hallucination and improve factual grounding of LLM output.
+#### Evaluation and Optimization Pipelines
+Design of automated testing pipelines for continuous performance optimization of your AI system, focusing on output relevance, faithfulness, context precision, context recall, or custom metrics, using state-of-the-art tools, LLM-as-judge, human-in-the-loop, and domain expert and user feedback strategies.
+#### Prompt Engineering
+Structured, modular, and model-specific prompt design using techniques such as zero-shot, few-shot, iterative, chain-of-thought, tree-of-thought, self-reflection, dynamic-template and meta-prompting, temperature adjustment, and tool-based augmentation to make sure your LLMs do exactly what you want them to do.
+#### Strategic Guidance and Training
+Strategic guidance on how to integrate AI into your business and company workflows, transform your ideas into feasible products, discover new opportunities, evaluate cost-performance tradeoffs, and organize hands-on tutoring so that your team can use AI tools with confidence.
+
+### Selected Tech Stack
+Python, OpenAI, Anthropic, PydanticAI, LangChain, LangGraph, LlamaIndex, Langfuse, Unstructured, Docling, Ragas, FastAPI, PostgreSQL, PGVector, Supabase, Celery, Redis, Streamlit, Voiceflow, Github Actions, Docker, AWS, Azure, AzureOpenAI
 
 ### Portfolio 
 
